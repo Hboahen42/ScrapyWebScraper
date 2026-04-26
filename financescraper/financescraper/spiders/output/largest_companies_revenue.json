@@ -1,0 +1,452 @@
+[
+  {
+    "rank": "1",
+    "company": "Amazon",
+    "industry": "Retail",
+    "revenue_usd_m": "716924",
+    "profit_usd_m": "79975",
+    "employees": "1576000",
+    "country": "United States"
+  },
+  {
+    "rank": "2",
+    "company": "Walmart",
+    "industry": "Retail",
+    "revenue_usd_m": "713163",
+    "profit_usd_m": "21893",
+    "employees": "2100000",
+    "country": "United States"
+  },
+  {
+    "rank": "3",
+    "company": "State Grid Corporation of China",
+    "industry": "Electricity",
+    "revenue_usd_m": "545948",
+    "profit_usd_m": "9204",
+    "employees": "1361423",
+    "country": "China"
+  },
+  {
+    "rank": "4",
+    "company": "Saudi Aramco",
+    "industry": "Oil and gas",
+    "revenue_usd_m": "480446",
+    "profit_usd_m": "106246",
+    "employees": "73311",
+    "country": "Saudi Arabia"
+  },
+  {
+    "rank": "5",
+    "company": "China National Petroleum Corporation",
+    "industry": "Oil and gas",
+    "revenue_usd_m": "476000",
+    "profit_usd_m": "25250",
+    "employees": "1026301",
+    "country": "China"
+  },
+  {
+    "rank": "6",
+    "company": "China Petrochemical Corporation",
+    "industry": "Oil and gas",
+    "revenue_usd_m": "429700",
+    "profit_usd_m": "9393",
+    "employees": "513434",
+    "country": "China"
+  },
+  {
+    "rank": "7",
+    "company": "Apple",
+    "industry": "Information technology",
+    "revenue_usd_m": "416000",
+    "profit_usd_m": "112000",
+    "employees": "166000",
+    "country": "United States"
+  },
+  {
+    "rank": "8",
+    "company": "Alphabet",
+    "industry": "Information technology",
+    "revenue_usd_m": "402872",
+    "profit_usd_m": "132170",
+    "employees": "190820",
+    "country": "United States"
+  },
+  {
+    "rank": "9",
+    "company": "UnitedHealth Group",
+    "industry": "Healthcare",
+    "revenue_usd_m": "400278",
+    "profit_usd_m": "14405",
+    "employees": "400000",
+    "country": "United States"
+  },
+  {
+    "rank": "10",
+    "company": "Berkshire Hathaway",
+    "industry": "Financials",
+    "revenue_usd_m": "371433",
+    "profit_usd_m": "88995",
+    "employees": "392400",
+    "country": "United States"
+  },
+  {
+    "rank": "11",
+    "company": "CVS Health",
+    "industry": "Healthcare",
+    "revenue_usd_m": "357776",
+    "profit_usd_m": "8344",
+    "employees": "259500",
+    "country": "United States"
+  },
+  {
+    "rank": "12",
+    "company": "Volkswagen Group",
+    "industry": "Automotive",
+    "revenue_usd_m": "348408",
+    "profit_usd_m": "17945",
+    "employees": "684025",
+    "country": "Germany"
+  },
+  {
+    "rank": "13",
+    "company": "ExxonMobil",
+    "industry": "Oil and gas",
+    "revenue_usd_m": "344582",
+    "profit_usd_m": "36010",
+    "employees": "61500",
+    "country": "United States"
+  },
+  {
+    "rank": "14",
+    "company": "Vitol",
+    "industry": "Commodities",
+    "revenue_usd_m": "331000",
+    "profit_usd_m": "13000",
+    "employees": "1560",
+    "country": "Switzerland"
+  },
+  {
+    "rank": "15",
+    "company": "Shell",
+    "industry": "Oil and gas",
+    "revenue_usd_m": "323183",
+    "profit_usd_m": "19359",
+    "employees": "103000",
+    "country": "United Kingdom"
+  },
+  {
+    "rank": "16",
+    "company": "China State Construction Engineering",
+    "industry": "Construction",
+    "revenue_usd_m": "320431",
+    "profit_usd_m": "4272",
+    "employees": "382894",
+    "country": "China"
+  },
+  {
+    "rank": "17",
+    "company": "Toyota",
+    "industry": "Automotive",
+    "revenue_usd_m": "312018",
+    "profit_usd_m": "34214",
+    "employees": "380793",
+    "country": "Japan"
+  },
+  {
+    "rank": "18",
+    "company": "McKesson",
+    "industry": "Healthcare",
+    "revenue_usd_m": "308951",
+    "profit_usd_m": "3002",
+    "employees": "48000",
+    "country": "United States"
+  },
+  {
+    "rank": "19",
+    "company": "Microsoft",
+    "industry": "Information technology",
+    "revenue_usd_m": "281700",
+    "profit_usd_m": "101800",
+    "employees": "228000",
+    "country": "United States"
+  },
+  {
+    "rank": "20",
+    "company": "Cencora",
+    "industry": "Healthcare",
+    "revenue_usd_m": "262173",
+    "profit_usd_m": "1745",
+    "employees": "44000",
+    "country": "United States"
+  },
+  {
+    "rank": "21",
+    "company": "Trafigura",
+    "industry": "Commodities",
+    "revenue_usd_m": "244280",
+    "profit_usd_m": "7393",
+    "employees": "12479",
+    "country": "Singapore"
+  },
+  {
+    "rank": "22",
+    "company": "Costco",
+    "industry": "Retail",
+    "revenue_usd_m": "242290",
+    "profit_usd_m": "6292",
+    "employees": "316000",
+    "country": "United States"
+  },
+  {
+    "rank": "23",
+    "company": "JPMorgan Chase",
+    "industry": "Financials",
+    "revenue_usd_m": "239425",
+    "profit_usd_m": "49552",
+    "employees": "309926",
+    "country": "United States"
+  },
+  {
+    "rank": "24",
+    "company": "Industrial and Commercial Bank of China",
+    "industry": "Financials",
+    "revenue_usd_m": "222484",
+    "profit_usd_m": "51417",
+    "employees": "419252",
+    "country": "China"
+  },
+  {
+    "rank": "25",
+    "company": "TotalEnergies",
+    "industry": "Oil and gas",
+    "revenue_usd_m": "218945",
+    "profit_usd_m": "21384",
+    "employees": "102579",
+    "country": "France"
+  },
+  {
+    "rank": "26",
+    "company": "Glencore",
+    "industry": "Commodities",
+    "revenue_usd_m": "217829",
+    "profit_usd_m": "4280",
+    "employees": "83426",
+    "country": "Switzerland"
+  },
+  {
+    "rank": "27",
+    "company": "Nvidia",
+    "industry": "Semiconductors",
+    "revenue_usd_m": "215938",
+    "profit_usd_m": "120067",
+    "employees": "36000",
+    "country": "United States"
+  },
+  {
+    "rank": "28",
+    "company": "BP",
+    "industry": "Oil and gas",
+    "revenue_usd_m": "213032",
+    "profit_usd_m": "15239",
+    "employees": "79400",
+    "country": "United Kingdom"
+  },
+  {
+    "rank": "29",
+    "company": "Cardinal Health",
+    "industry": "Healthcare",
+    "revenue_usd_m": "205012",
+    "profit_usd_m": "261",
+    "employees": "47520",
+    "country": "United States"
+  },
+  {
+    "rank": "30",
+    "company": "Stellantis",
+    "industry": "Automotive",
+    "revenue_usd_m": "204908",
+    "profit_usd_m": "20103",
+    "employees": "258275",
+    "country": "Netherlands"
+  },
+  {
+    "rank": "31",
+    "company": "Chevron",
+    "industry": "Oil and gas",
+    "revenue_usd_m": "200949",
+    "profit_usd_m": "21369",
+    "employees": "45600",
+    "country": "United States"
+  },
+  {
+    "rank": "32",
+    "company": "China Construction Bank",
+    "industry": "Financials",
+    "revenue_usd_m": "199826",
+    "profit_usd_m": "46990",
+    "employees": "376871",
+    "country": "China"
+  },
+  {
+    "rank": "33",
+    "company": "Samsung Electronics",
+    "industry": "Electronics",
+    "revenue_usd_m": "198257",
+    "profit_usd_m": "11082",
+    "employees": "267860",
+    "country": "South Korea"
+  },
+  {
+    "rank": "34",
+    "company": "Foxconn",
+    "industry": "Electronics",
+    "revenue_usd_m": "197876",
+    "profit_usd_m": "4563",
+    "employees": "621393",
+    "country": "Taiwan"
+  },
+  {
+    "rank": "35",
+    "company": "Cigna",
+    "industry": "Healthcare",
+    "revenue_usd_m": "195265",
+    "profit_usd_m": "5164",
+    "employees": "71413",
+    "country": "United States"
+  },
+  {
+    "rank": "36",
+    "company": "Agricultural Bank of China",
+    "industry": "Financials",
+    "revenue_usd_m": "192398",
+    "profit_usd_m": "38049",
+    "employees": "451003",
+    "country": "China"
+  },
+  {
+    "rank": "37",
+    "company": "Schwarz Gruppe",
+    "industry": "Retail",
+    "revenue_usd_m": "180576",
+    "profit_usd_m": "16988",
+    "employees": "595000",
+    "country": "Germany"
+  },
+  {
+    "rank": "38",
+    "company": "China Railway Engineering Corporation",
+    "industry": "Construction",
+    "revenue_usd_m": "178563",
+    "profit_usd_m": "2152",
+    "employees": "314149",
+    "country": "China"
+  },
+  {
+    "rank": "39",
+    "company": "Cargill",
+    "industry": "Conglomerate",
+    "revenue_usd_m": "177000",
+    "profit_usd_m": "17641",
+    "employees": "160000",
+    "country": "United States"
+  },
+  {
+    "rank": "40",
+    "company": "Ford Motor Company",
+    "industry": "Automotive",
+    "revenue_usd_m": "176191",
+    "profit_usd_m": "4347",
+    "employees": "177000",
+    "country": "United States"
+  },
+  {
+    "rank": "41",
+    "company": "Bank of China",
+    "industry": "Financials",
+    "revenue_usd_m": "172328",
+    "profit_usd_m": "32758",
+    "employees": "306931",
+    "country": "China"
+  },
+  {
+    "rank": "42",
+    "company": "Bank of America",
+    "industry": "Financials",
+    "revenue_usd_m": "171912",
+    "profit_usd_m": "26515",
+    "employees": "212985",
+    "country": "United States"
+  },
+  {
+    "rank": "43",
+    "company": "General Motors",
+    "industry": "Automotive",
+    "revenue_usd_m": "171842",
+    "profit_usd_m": "10127",
+    "employees": "163000",
+    "country": "United States"
+  },
+  {
+    "rank": "44",
+    "company": "Elevance Health",
+    "industry": "Healthcare",
+    "revenue_usd_m": "171340",
+    "profit_usd_m": "5987",
+    "employees": "104900",
+    "country": "United States"
+  },
+  {
+    "rank": "45",
+    "company": "BMW Group",
+    "industry": "Automotive",
+    "revenue_usd_m": "168103",
+    "profit_usd_m": "12205",
+    "employees": "154950",
+    "country": "Germany"
+  },
+  {
+    "rank": "46",
+    "company": "Mercedes-Benz Group",
+    "industry": "Automotive",
+    "revenue_usd_m": "165638",
+    "profit_usd_m": "15417",
+    "employees": "166056",
+    "country": "Germany"
+  },
+  {
+    "rank": "47",
+    "company": "Meta Platforms",
+    "industry": "Social media",
+    "revenue_usd_m": "164500",
+    "profit_usd_m": "62360",
+    "employees": "78450",
+    "country": "United States"
+  },
+  {
+    "rank": "48",
+    "company": "China Railway Construction Corporation",
+    "industry": "Construction",
+    "revenue_usd_m": "160847",
+    "profit_usd_m": "1701",
+    "employees": "336433",
+    "country": "China"
+  },
+  {
+    "rank": "49",
+    "company": "Baowu",
+    "industry": "Steel",
+    "revenue_usd_m": "157216",
+    "profit_usd_m": "2494",
+    "employees": "258697",
+    "country": "China"
+  },
+  {
+    "rank": "50",
+    "company": "Citigroup",
+    "industry": "Financials",
+    "revenue_usd_m": "156820",
+    "profit_usd_m": "9228",
+    "employees": "237925",
+    "country": "United States"
+  }
+]

@@ -1,0 +1,51 @@
+rank,company,industry,revenue_usd_m,profit_usd_m,employees,country
+1,Amazon,Retail,716924,79975,1576000,United States
+2,Walmart,Retail,713163,21893,2100000,United States
+3,State Grid Corporation of China,Electricity,545948,9204,1361423,China
+4,Saudi Aramco,Oil and gas,480446,106246,73311,Saudi Arabia
+5,China National Petroleum Corporation,Oil and gas,476000,25250,1026301,China
+6,China Petrochemical Corporation,Oil and gas,429700,9393,513434,China
+7,Apple,Information technology,416000,112000,166000,United States
+8,Alphabet,Information technology,402872,132170,190820,United States
+9,UnitedHealth Group,Healthcare,400278,14405,400000,United States
+10,Berkshire Hathaway,Financials,371433,88995,392400,United States
+11,CVS Health,Healthcare,357776,8344,259500,United States
+12,Volkswagen Group,Automotive,348408,17945,684025,Germany
+13,ExxonMobil,Oil and gas,344582,36010,61500,United States
+14,Vitol,Commodities,331000,13000,1560,Switzerland
+15,Shell,Oil and gas,323183,19359,103000,United Kingdom
+16,China State Construction Engineering,Construction,320431,4272,382894,China
+17,Toyota,Automotive,312018,34214,380793,Japan
+18,McKesson,Healthcare,308951,3002,48000,United States
+19,Microsoft,Information technology,281700,101800,228000,United States
+20,Cencora,Healthcare,262173,1745,44000,United States
+21,Trafigura,Commodities,244280,7393,12479,Singapore
+22,Costco,Retail,242290,6292,316000,United States
+23,JPMorgan Chase,Financials,239425,49552,309926,United States
+24,Industrial and Commercial Bank of China,Financials,222484,51417,419252,China
+25,TotalEnergies,Oil and gas,218945,21384,102579,France
+26,Glencore,Commodities,217829,4280,83426,Switzerland
+27,Nvidia,Semiconductors,215938,120067,36000,United States
+28,BP,Oil and gas,213032,15239,79400,United Kingdom
+29,Cardinal Health,Healthcare,205012,261,47520,United States
+30,Stellantis,Automotive,204908,20103,258275,Netherlands
+31,Chevron,Oil and gas,200949,21369,45600,United States
+32,China Construction Bank,Financials,199826,46990,376871,China
+33,Samsung Electronics,Electronics,198257,11082,267860,South Korea
+34,Foxconn,Electronics,197876,4563,621393,Taiwan
+35,Cigna,Healthcare,195265,5164,71413,United States
+36,Agricultural Bank of China,Financials,192398,38049,451003,China
+37,Schwarz Gruppe,Retail,180576,16988,595000,Germany
+38,China Railway Engineering Corporation,Construction,178563,2152,314149,China
+39,Cargill,Conglomerate,177000,17641,160000,United States
+40,Ford Motor Company,Automotive,176191,4347,177000,United States
+41,Bank of China,Financials,172328,32758,306931,China
+42,Bank of America,Financials,171912,26515,212985,United States
+43,General Motors,Automotive,171842,10127,163000,United States
+44,Elevance Health,Healthcare,171340,5987,104900,United States
+45,BMW Group,Automotive,168103,12205,154950,Germany
+46,Mercedes-Benz Group,Automotive,165638,15417,166056,Germany
+47,Meta Platforms,Social media,164500,62360,78450,United States
+48,China Railway Construction Corporation,Construction,160847,1701,336433,China
+49,Baowu,Steel,157216,2494,258697,China
+50,Citigroup,Financials,156820,9228,237925,United States

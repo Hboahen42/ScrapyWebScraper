@@ -1,0 +1,504 @@
+cik,company,date_added,founded,headquarters,sector,sub_industry,ticker
+0000066740,3M,1957-03-04,1902,"Saint Paul, Minnesota",Industrials,Industrial Conglomerates,MMM
+0000091142,A. O. Smith,2017-07-26,1916,Milwaukee,Industrials,Building Products,AOS
+0000001800,Abbott Laboratories,1957-03-04,1888,"North Chicago, Illinois",Health Care,Health Care Equipment,ABT
+0001551152,AbbVie,2012-12-31,2013 (1888),"North Chicago, Illinois",Health Care,Biotechnology,ABBV
+0001467373,Accenture,2011-07-06,1989,Dublin,Information Technology,IT Consulting & Other Services,ACN
+0000796343,Adobe Inc.,1997-05-05,1982,"San Jose, California",Information Technology,Application Software,ADBE
+0000002488,Advanced Micro Devices,2017-03-20,1969,"Santa Clara, California",Information Technology,Semiconductors,AMD
+0000874761,AES Corporation,1998-10-02,1981,"Arlington, Virginia",Utilities,Independent Power Producers & Energy Traders,AES
+0000004977,Aflac,1999-05-28,1955,"Columbus, Georgia",Financials,Life & Health Insurance,AFL
+0001090872,Agilent Technologies,2000-06-05,1999,"Santa Clara, California",Health Care,Life Sciences Tools & Services,A
+0000002969,Air Products,1985-04-30,1940,"Upper Macungie Township, Pennsylvania",Materials,Industrial Gases,APD
+0001559720,Airbnb,2023-09-18,2008,San Francisco,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",ABNB
+0001086222,Akamai Technologies,2007-07-12,1998,"Cambridge, Massachusetts",Information Technology,Internet Services & Infrastructure,AKAM
+0000915913,Albemarle Corporation,2016-07-01,1994,"Charlotte, North Carolina",Materials,Specialty Chemicals,ALB
+0001035443,Alexandria Real Estate Equities,2017-03-20,1994,"Pasadena, California",Real Estate,Office REITs,ARE
+0001097149,Align Technology,2017-06-19,1997,"Tempe, Arizona",Health Care,Health Care Supplies,ALGN
+0001579241,Allegion,2013-12-02,1908,Dublin,Industrials,Building Products,ALLE
+0000352541,Alliant Energy,2016-07-01,1917,"Madison, Wisconsin",Utilities,Electric Utilities,LNT
+0000899051,Allstate,1995-07-13,1931,"Northbrook, Illinois",Financials,Property & Casualty Insurance,ALL
+0001652044,Alphabet Inc.,2006-04-03,1998,"Mountain View, California",Communication Services,Interactive Media & Services,GOOGL
+0001652044,Alphabet Inc.,2014-04-03,1998,"Mountain View, California",Communication Services,Interactive Media & Services,GOOG
+0000764180,Altria,1957-03-04,1985,"Richmond, Virginia",Consumer Staples,Tobacco,MO
+0001018724,Amazon,2005-11-18,1994,Seattle,Consumer Discretionary,Broadline Retail,AMZN
+0001748790,Amcor,2019-06-07,2019 (1860),Warmley,Materials,Paper & Plastic Packaging Products & Materials,AMCR
+0001002910,Ameren,1991-09-19,1902,St. Louis,Utilities,Multi-Utilities,AEE
+0000004904,American Electric Power,1957-03-04,1906,"Columbus, Ohio",Utilities,Electric Utilities,AEP
+0000004962,American Express,1976-06-30,1850,New York City,Financials,Consumer Finance,AXP
+0000005272,American International Group,1980-03-31,1919,New York City,Financials,Multi-line Insurance,AIG
+0001053507,American Tower,2007-11-19,1995,Boston,Real Estate,Telecom Tower REITs,AMT
+0001410636,American Water Works,2016-03-04,1886,"Camden, New Jersey",Utilities,Water Utilities,AWK
+0000820027,Ameriprise Financial,2005-10-03,1894,Minneapolis,Financials,Asset Management & Custody Banks,AMP
+0001037868,Ametek,2013-09-23,1930,"Berwyn, Pennsylvania",Industrials,Electrical Components & Equipment,AME
+0000318154,Amgen,1992-01-02,1980,"Thousand Oaks, California",Health Care,Biotechnology,AMGN
+0000820313,Amphenol,2008-09-30,1932,"Wallingford, Connecticut",Information Technology,Electronic Components,APH
+0000006281,Analog Devices,1999-10-12,1965,"Wilmington, Massachusetts",Information Technology,Semiconductors,ADI
+0000315293,Aon plc,1996-04-23,1982 (1919),London,Financials,Insurance Brokers,AON
+0001841666,APA Corporation,1997-07-28,1954,Houston,Energy,Oil & Gas Exploration & Production,APA
+0001858681,Apollo Global Management,2024-12-23,1990,New York City,Financials,Asset Management & Custody Banks,APO
+0000320193,Apple Inc.,1982-11-30,1977,"Cupertino, California",Information Technology,"Technology Hardware, Storage & Peripherals",AAPL
+0000006951,Applied Materials,1995-03-16,1967,"Santa Clara, California",Information Technology,Semiconductor Materials & Equipment,AMAT
+0001751008,AppLovin,2025-09-22,2012,"Palo Alto, California",Information Technology,Application Software,APP
+0001521332,Aptiv,2012-12-24,1994,Schaffhausen,Consumer Discretionary,Automotive Parts & Equipment,APTV
+0000947484,Arch Capital Group,2022-11-01,1995,"Hamilton, Bermuda",Financials,Property & Casualty Insurance,ACGL
+0000007084,Archer Daniels Midland,1957-03-04,1902,Chicago,Consumer Staples,Agricultural Products & Services,ADM
+0001176948,Ares Management,2025-12-11,1977,Los Angeles,Financials,Asset Management & Custody Banks,ARES
+0001596532,Arista Networks,2018-08-28,2004,"Santa Clara, California",Information Technology,Communications Equipment,ANET
+0000354190,Arthur J. Gallagher & Co.,2016-05-31,1927,"Rolling Meadows, Illinois",Financials,Insurance Brokers,AJG
+0001267238,Assurant,2007-04-10,1892,Atlanta,Financials,Multi-line Insurance,AIZ
+0000732717,AT&T,1983-11-30,1983 (1885),Dallas,Communication Services,Integrated Telecommunication Services,T
+0000731802,Atmos Energy,2019-02-15,1906,Dallas,Utilities,Gas Utilities,ATO
+0000769397,Autodesk,1989-12-01,1982,San Francisco,Information Technology,Application Software,ADSK
+0000008670,Automatic Data Processing,1981-03-31,1949,"Roseland, New Jersey",Industrials,Human Resource & Employment Services,ADP
+0000866787,AutoZone,1997-01-02,1979,"Memphis, Tennessee",Consumer Discretionary,Automotive Retail,AZO
+0000915912,AvalonBay Communities,2007-01-10,1978,"Arlington, Virginia",Real Estate,Multi-Family Residential REITs,AVB
+0000008818,Avery Dennison,1987-12-31,1935,"Mentor, Ohio",Materials,Paper & Plastic Packaging Products & Materials,AVY
+0001069183,Axon Enterprise,2023-05-04,1993,"Scottsdale, Arizona",Industrials,Aerospace & Defense,AXON
+0001701605,Baker Hughes,2017-07-07,2017,Houston,Energy,Oil & Gas Equipment & Services,BKR
+0000009389,Ball Corporation,1984-10-31,1880,"Broomfield, Colorado",Materials,"Metal, Glass & Plastic Containers",BALL
+0000070858,Bank of America,1976-06-30,1998 (1923 / 1874),"Charlotte, North Carolina",Financials,Diversified Banks,BAC
+0000010456,Baxter International,1972-09-30,1931,"Deerfield, Illinois",Health Care,Health Care Equipment,BAX
+0000010795,Becton Dickinson,1972-09-30,1897,"Franklin Lakes, New Jersey",Health Care,Health Care Equipment,BDX
+0001067983,Berkshire Hathaway,2010-02-16,1839,"Omaha, Nebraska",Financials,Multi-Sector Holdings,BRK.B
+0000764478,Best Buy,1999-06-29,1966,"Richfield, Minnesota",Consumer Discretionary,Computer & Electronics Retail,BBY
+0000842023,Bio-Techne,2021-08-30,1976,Minneapolis,Health Care,Life Sciences Tools & Services,TECH
+0000875045,Biogen,2003-11-13,1978,"Cambridge, Massachusetts",Health Care,Biotechnology,BIIB
+0002012383,BlackRock,2011-04-04,1988,New York City,Financials,Asset Management & Custody Banks,BLK
+0001393818,Blackstone Inc.,2023-09-18,1985,New York City,Financials,Asset Management & Custody Banks,BX
+0001512673,"Block, Inc.",2025-07-23,2009,none,Financials,Transaction & Payment Processing Services,XYZ
+0001390777,BNY Mellon,1995-03-31,1784,New York City,Financials,Asset Management & Custody Banks,BK
+0000012927,Boeing,1957-03-04,1916,"Arlington, Virginia",Industrials,Aerospace & Defense,BA
+0001075531,Booking Holdings,2009-11-06,1996,"Norwalk, Connecticut",Consumer Discretionary,"Hotels, Resorts & Cruise Lines",BKNG
+0000885725,Boston Scientific,1995-02-24,1979,"Marlborough, Massachusetts",Health Care,Health Care Equipment,BSX
+0000014272,Bristol Myers Squibb,1957-03-04,1989 (1887),New York City,Health Care,Pharmaceuticals,BMY
+0001730168,Broadcom,2014-05-08,1961,"Palo Alto, California",Information Technology,Semiconductors,AVGO
+0001383312,Broadridge Financial Solutions,2018-06-18,1962,"Lake Success, New York",Industrials,Data Processing & Outsourced Services,BR
+0000079282,Brown & Brown,2021-09-20,1939,"Daytona Beach, Florida",Financials,Insurance Brokers,BRO
+0000014693,Brown–Forman,1982-10-31,1870,"Louisville, Kentucky",Consumer Staples,Distillers & Vintners,BF.B
+0001316835,Builders FirstSource,2023-12-18,1998,"Irving, Texas",Industrials,Building Products,BLDR
+0001996862,Bunge Global,2023-03-15,1818,"Chesterfield, Missouri",Consumer Staples,Agricultural Products & Services,BG
+0001037540,"BXP, Inc.",2006-04-03,1970,Boston,Real Estate,Office REITs,BXP
+0001043277,C.H. Robinson,2007-03-02,1905,"Eden Prairie, Minnesota",Industrials,Air Freight & Logistics,CHRW
+0000813672,Cadence Design Systems,2017-09-18,1988,"San Jose, California",Information Technology,Application Software,CDNS
+0000906345,Camden Property Trust,2022-04-04,1981,Houston,Real Estate,Multi-Family Residential REITs,CPT
+0000016732,Campbell's Company (The),1957-03-04,1869,"Camden, New Jersey",Consumer Staples,Packaged Foods & Meats,CPB
+0000927628,Capital One,1998-07-01,1994,"Tysons Corner, Virginia",Financials,Consumer Finance,COF
+0000721371,Cardinal Health,1997-05-27,1971,"Dublin, Ohio",Health Care,Health Care Distributors,CAH
+0000815097,Carnival,1998-12-22,1972,Miami,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",CCL
+0001783180,Carrier Global,2020-04-03,"2020 (1915,","Palm Beach Gardens, Florida",Industrials,Building Products,CARR
+0001690820,Carvana,2025-12-22,2012,"Tempe, Arizona",Consumer Discretionary,Automotive Retail,CVNA
+0000726958,Casey's,2026-04-09,1967,"Ankeny, Iowa",Consumer Staples,Food Retail,CASY
+0000018230,Caterpillar Inc.,1957-03-04,1925,"Irving, Texas",Industrials,Construction Machinery & Heavy Transportation Equipment,CAT
+0001374310,Cboe Global Markets,2017-03-01,1973,Chicago,Financials,Financial Exchanges & Data,CBOE
+0001138118,CBRE Group,2006-11-10,1906,Dallas,Real Estate,Real Estate Services,CBRE
+0001402057,CDW Corporation,2019-09-23,1984,"Vernon Hills, Illinois",Information Technology,Technology Distributors,CDW
+0001140859,Cencora,2001-08-30,1985,"Conshohocken, Pennsylvania",Health Care,Health Care Distributors,COR
+0001071739,Centene Corporation,2016-03-30,1984,St. Louis,Health Care,Managed Health Care,CNC
+0001130310,CenterPoint Energy,1985-07-31,1882,Houston,Utilities,Multi-Utilities,CNP
+0001324404,CF Industries,2008-08-27,1946,"Deerfield, Illinois",Materials,Fertilizers & Agricultural Chemicals,CF
+0001100682,Charles River Laboratories,2021-05-14,1947,"Wilmington, Massachusetts",Health Care,Life Sciences Tools & Services,CRL
+0000316709,Charles Schwab Corporation,1997-06-02,1971,"Westlake, Texas",Financials,Investment Banking & Brokerage,SCHW
+0001091667,Charter Communications,2016-09-08,1993,"Stamford, Connecticut",Communication Services,Cable & Satellite,CHTR
+0000093410,Chevron Corporation,1957-03-04,1879,Houston,Energy,Integrated Oil & Gas,CVX
+0001058090,Chipotle Mexican Grill,2011-04-28,1993,"Newport Beach, California",Consumer Discretionary,Restaurants,CMG
+0000896159,Chubb Limited,2010-07-15,1985,"Zurich, Switzerland",Financials,Property & Casualty Insurance,CB
+0000313927,Church & Dwight,2015-12-29,1847,"Ewing, New Jersey",Consumer Staples,Household Products,CHD
+0000936395,Ciena,2026-02-09,1992,"Hanover, Maryland",Information Technology,Communications Equipment,CIEN
+0001739940,Cigna,1976-06-30,1982,"Bloomfield, Connecticut",Health Care,Health Care Services,CI
+0000020286,Cincinnati Financial,1997-12-18,1950,"Fairfield, Ohio",Financials,Property & Casualty Insurance,CINF
+0000723254,Cintas,2001-03-01,1929,"Mason, Ohio",Industrials,Diversified Support Services,CTAS
+0000858877,Cisco,1993-12-01,1984,"San Jose, California",Information Technology,Communications Equipment,CSCO
+0000831001,Citigroup,1988-05-31,1998,New York City,Financials,Diversified Banks,C
+0000759944,Citizens Financial Group,2016-01-29,1828,"Providence, Rhode Island",Financials,Regional Banks,CFG
+0000021076,Clorox,1969-03-31,1913,"Oakland, California",Consumer Staples,Household Products,CLX
+0001156375,CME Group,2006-08-11,1848,Chicago,Financials,Financial Exchanges & Data,CME
+0000811156,CMS Energy,1957-03-04,1886,"Jackson, Michigan",Utilities,Multi-Utilities,CMS
+0000021344,Coca-Cola Company (The),1957-03-04,1886,Atlanta,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,KO
+0001058290,Cognizant,2006-11-17,1994,"Teaneck, New Jersey",Information Technology,IT Consulting & Other Services,CTSH
+0000820318,Coherent Corp.,2026-03-23,1971,"Saxonburg, Pennsylvania",Information Technology,Electronic Components,COHR
+0001679788,Coinbase,2025-05-19,2012,New York City,Financials,Financial Exchanges & Data,COIN
+0000021665,Colgate-Palmolive,1957-03-04,1806,New York City,Consumer Staples,Household Products,CL
+0001166691,Comcast,2002-11-19,1963,Philadelphia,Communication Services,Cable & Satellite,CMCSA
+0001035983,Comfort Systems USA,2025-12-22,1997,Houston,Industrials,Construction & Engineering,FIX
+0000023217,Conagra Brands,1983-08-31,1919,Chicago,Consumer Staples,Packaged Foods & Meats,CAG
+0001163165,ConocoPhillips,1957-03-04,2002,Houston,Energy,Oil & Gas Exploration & Production,COP
+0001047862,Consolidated Edison,1957-03-04,1823,New York City,Utilities,Multi-Utilities,ED
+0000016918,Constellation Brands,2005-07-01,1945,"Rochester, New York",Consumer Staples,Distillers & Vintners,STZ
+0001868275,Constellation Energy,2022-02-02,1999,Baltimore,Utilities,Electric Utilities,CEG
+0000711404,Cooper Companies (The),2016-09-23,1958,"San Ramon, California",Health Care,Health Care Supplies,COO
+0000900075,Copart,2018-07-02,1982,Dallas,Industrials,Diversified Support Services,CPRT
+0000024741,Corning Inc.,1995-02-27,1851,"Corning, New York",Information Technology,Electronic Components,GLW
+0001175454,Corpay,2018-06-20,2000,Atlanta,Financials,Transaction & Payment Processing Services,CPAY
+0001755672,Corteva,2019-06-03,2019,Indianapolis,Materials,Fertilizers & Agricultural Chemicals,CTVA
+0001057352,CoStar Group,2022-09-19,1987,"Washington, D.C.",Real Estate,Real Estate Services,CSGP
+0000909832,Costco,1993-10-01,1976,"Issaquah, Washington",Consumer Staples,Consumer Staples Merchandise Retail,COST
+0000858470,Coterra,2008-06-23,2021 (1989),Houston,Energy,Oil & Gas Exploration & Production,CTRA
+0000849395,CRH plc,2025-12-22,1970,Dublin,Materials,Construction Materials,CRH
+0001535527,CrowdStrike,2024-06-24,2011,"Austin, Texas",Information Technology,Systems Software,CRWD
+0001051470,Crown Castle,2012-03-14,1994,Houston,Real Estate,Telecom Tower REITs,CCI
+0000277948,CSX Corporation,1957-03-04,1980,"Jacksonville, Florida",Industrials,Rail Transportation,CSX
+0000026172,Cummins,1965-03-31,1919,"Columbus, Indiana",Industrials,Construction Machinery & Heavy Transportation Equipment,CMI
+0000064803,CVS Health,1957-03-04,1996,"Woonsocket, Rhode Island",Health Care,Health Care Services,CVS
+0000313616,Danaher Corporation,1998-11-18,1969,"Washington, D.C.",Health Care,Life Sciences Tools & Services,DHR
+0000940944,Darden Restaurants,1995-05-31,1938,"Orlando, Florida",Consumer Discretionary,Restaurants,DRI
+0001561550,Datadog,2025-07-09,2010,New York City,Information Technology,Application Software,DDOG
+0000927066,DaVita,2008-07-31,1979,Denver,Health Care,Health Care Services,DVA
+0000910521,Deckers Brands,2024-03-18,1973,"Goleta, California",Consumer Discretionary,Footwear,DECK
+0000315189,Deere & Company,1957-03-04,1837,"Moline, Illinois",Industrials,Agricultural & Farm Machinery,DE
+0001571996,Dell Technologies,2024-09-23,2016,"Round Rock, Texas",Information Technology,"Technology Hardware, Storage & Peripherals",DELL
+0000027904,Delta Air Lines,2013-09-11,1929,Atlanta,Industrials,Passenger Airlines,DAL
+0001090012,Devon Energy,2000-08-30,1971,Oklahoma City,Energy,Oil & Gas Exploration & Production,DVN
+0001093557,Dexcom,2020-05-12,1999,San Diego,Health Care,Health Care Equipment,DXCM
+0001539838,Diamondback Energy,2018-12-03,2007,"Midland, Texas",Energy,Oil & Gas Exploration & Production,FANG
+0001297996,Digital Realty,2016-05-18,2004,"Austin, Texas",Real Estate,Data Center REITs,DLR
+0000029534,Dollar General,2012-12-03,1939,"Goodlettsville, Tennessee",Consumer Staples,Consumer Staples Merchandise Retail,DG
+0000935703,Dollar Tree,2011-12-19,1986,"Chesapeake, Virginia",Consumer Staples,Consumer Staples Merchandise Retail,DLTR
+0000715957,Dominion Energy,2016-11-30,1983,"Richmond, Virginia",Utilities,Multi-Utilities,D
+0001286681,Domino's,2020-05-12,1960,"Ann Arbor, Michigan",Consumer Discretionary,Restaurants,DPZ
+0001792789,DoorDash,2025-03-24,2012,San Francisco,Consumer Discretionary,Specialized Consumer Services,DASH
+0000029905,Dover Corporation,1985-10-31,1955,"Downers Grove, Illinois",Industrials,Industrial Machinery & Supplies & Components,DOV
+0001751788,Dow Inc.,2019-04-01,2019 (1897),"Midland, Michigan",Materials,Commodity Chemicals,DOW
+0000882184,D. R. Horton,2005-06-22,1978,"Arlington, Texas",Consumer Discretionary,Homebuilding,DHI
+0000936340,DTE Energy,1957-03-04,1995,Detroit,Utilities,Multi-Utilities,DTE
+0001326160,Duke Energy,1976-06-30,1904,"Charlotte, North Carolina",Utilities,Electric Utilities,DUK
+0001666700,DuPont,2019-06-03,2017 (1802),"Wilmington, Delaware",Materials,Specialty Chemicals,DD
+0001551182,Eaton Corporation,1957-03-04,1911,Dublin,Industrials,Electrical Components & Equipment,ETN
+0001065088,eBay Inc.,2002-07-22,1995,"San Jose, California",Consumer Discretionary,Broadline Retail,EBAY
+0001415404,EchoStar,2026-03-23,2008,"Englewood, Colorado",Communication Services,Wireless Telecommunication Services,SATS
+0000031462,Ecolab,1989-01-31,1923,"Saint Paul, Minnesota",Materials,Specialty Chemicals,ECL
+0000827052,Edison International,1957-03-04,1886,"Rosemead, California",Utilities,Electric Utilities,EIX
+0001099800,Edwards Lifesciences,2011-04-01,1958,"Irvine, California",Health Care,Health Care Equipment,EW
+0000712515,Electronic Arts,2002-07-22,1982,"Redwood City, California",Communication Services,Interactive Home Entertainment,EA
+0001156039,Elevance Health,2002-07-25,2014 (1946),Indianapolis,Health Care,Managed Health Care,ELV
+0000105634,Emcor,2025-09-22,1994,"Norwalk, Connecticut",Industrials,Construction & Engineering,EME
+0000032604,Emerson Electric,1965-03-31,1890,"Ferguson, Missouri",Industrials,Electrical Components & Equipment,EMR
+0000065984,Entergy,1957-03-04,1913,New Orleans,Utilities,Electric Utilities,ETR
+0000821189,EOG Resources,2000-11-02,1999,Houston,Energy,Oil & Gas Exploration & Production,EOG
+0001352010,EPAM Systems,2021-12-14,1993,"Newtown, Pennsylvania",Information Technology,IT Consulting & Other Services,EPAM
+0000033213,EQT Corporation,2022-10-03,1888,Pittsburgh,Energy,Oil & Gas Exploration & Production,EQT
+0000033185,Equifax,1997-06-19,1899,Atlanta,Industrials,Research & Consulting Services,EFX
+0001101239,Equinix,2015-03-20,1998,"Redwood City, California",Real Estate,Data Center REITs,EQIX
+0000906107,Equity Residential,2001-12-03,1969,Chicago,Real Estate,Multi-Family Residential REITs,EQR
+0000922621,Erie Indemnity,2024-09-23,1925,"Erie, Pennsylvania",Financials,Insurance Brokers,ERIE
+0000920522,Essex Property Trust,2014-04-02,1971,"San Mateo, California",Real Estate,Multi-Family Residential REITs,ESS
+0001001250,Estée Lauder Companies (The),2006-01-05,1946,New York City,Consumer Staples,Personal Care Products,EL
+0001095073,Everest Group,2017-06-19,1973,"Hamilton, Bermuda",Financials,Reinsurance,EG
+0001711269,Evergy,2018-06-05,1909,"Kansas City, Missouri",Utilities,Electric Utilities,EVRG
+0000072741,Eversource Energy,2009-07-24,1966,"Hartford, Connecticut",Utilities,Electric Utilities,ES
+0001109357,Exelon,1957-03-04,2000,Chicago,Utilities,Electric Utilities,EXC
+0000895126,Expand Energy,2025-03-24,1989,Oklahoma City,Energy,Oil & Gas Exploration & Production,EXE
+0001324424,Expedia Group,2007-10-02,1996,Seattle,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",EXPE
+0000746515,Expeditors International,2007-10-10,1979,Seattle,Industrials,Air Freight & Logistics,EXPD
+0001289490,Extra Space Storage,2016-01-19,1977,Salt Lake City,Real Estate,Self-Storage REITs,EXR
+0000034088,ExxonMobil,1957-03-04,1999,"Irving, Texas",Energy,Integrated Oil & Gas,XOM
+0001048695,"F5, Inc.",2010-12-20,1996,Seattle,Information Technology,Communications Equipment,FFIV
+0001013237,FactSet,2021-12-20,1978,"Norwalk, Connecticut",Financials,Financial Exchanges & Data,FDS
+0000814547,Fair Isaac,2023-03-20,1956,"Bozeman, Montana",Information Technology,Application Software,FICO
+0000815556,Fastenal,2008-09-15,1967,"Winona, Minnesota",Industrials,Trading Companies & Distributors,FAST
+0000034903,Federal Realty Investment Trust,2016-02-01,1962,"Rockville, Maryland",Real Estate,Retail REITs,FRT
+0001048911,FedEx,1980-12-31,1971,"Memphis, Tennessee",Industrials,Air Freight & Logistics,FDX
+0001136893,Fidelity National Information Services,2006-11-10,1968,"Jacksonville, Florida",Financials,Transaction & Payment Processing Services,FIS
+0000035527,Fifth Third Bancorp,1996-03-29,1858,Cincinnati,Financials,Regional Banks,FITB
+0001274494,First Solar,2022-12-19,1999,"Tempe, Arizona",Information Technology,Semiconductors,FSLR
+0001031296,FirstEnergy,1997-11-28,1997,"Akron, Ohio",Utilities,Electric Utilities,FE
+0000798354,Fiserv,2001-04-02,1984,"Brookfield, Wisconsin",Financials,Transaction & Payment Processing Services,FISV
+0000037996,Ford Motor Company,1957-03-04,1903,"Dearborn, Michigan",Consumer Discretionary,Automobile Manufacturers,F
+0001262039,Fortinet,2018-10-11,2000,"Sunnyvale, California",Information Technology,Systems Software,FTNT
+0001659166,Fortive,2016-07-01,2016,"Everett, Washington",Industrials,Industrial Machinery & Supplies & Components,FTV
+0001754301,Fox Corporation,2019-03-19,2019,New York City,Communication Services,Broadcasting,FOXA
+0001754301,Fox Corporation,2019-03-19,2019,New York City,Communication Services,Broadcasting,FOX
+0000038777,Franklin Resources,1998-04-30,1947,"San Mateo, California",Financials,Asset Management & Custody Banks,BEN
+0000831259,Freeport-McMoRan,2011-07-01,1912,"Phoenix, Arizona",Materials,Copper,FCX
+0001121788,Garmin,2012-12-12,1989,Schaffhausen,Consumer Discretionary,Consumer Electronics,GRMN
+0000749251,Gartner,2017-04-05,1979,"Stamford, Connecticut",Information Technology,IT Consulting & Other Services,IT
+0000040545,GE Aerospace,1957-03-04,1892,"Evendale, Ohio",Industrials,Aerospace & Defense,GE
+0001932393,GE HealthCare,2023-01-04,1994,Chicago,Health Care,Health Care Equipment,GEHC
+0001996810,GE Vernova,2024-04-02,2024,"Cambridge, Massachusetts",Industrials,Heavy Electrical Equipment,GEV
+0000849399,Gen Digital,2003-03-25,1982,"Tempe, Arizona",Information Technology,Systems Software,GEN
+0001474735,Generac,2021-03-22,1959,"Waukesha, Wisconsin",Industrials,Electrical Components & Equipment,GNRC
+0000040533,General Dynamics,1957-03-04,1899,"Reston, Virginia",Industrials,Aerospace & Defense,GD
+0000040704,General Mills,1957-03-04,1856,"Golden Valley, Minnesota",Consumer Staples,Packaged Foods & Meats,GIS
+0001467858,General Motors,2013-06-06,1908,Detroit,Consumer Discretionary,Automobile Manufacturers,GM
+0000040987,Genuine Parts Company,1973-12-31,1925,Atlanta,Consumer Discretionary,Distributors,GPC
+0000882095,Gilead Sciences,2004-07-01,1987,"Foster City, California",Health Care,Biotechnology,GILD
+0001123360,Global Payments,2016-04-25,2000,Atlanta,Financials,Transaction & Payment Processing Services,GPN
+0000320335,Globe Life,1989-04-30,1900,"McKinney, Texas",Financials,Life & Health Insurance,GL
+0001609711,GoDaddy,2024-06-24,1997,"Tempe, Arizona",Information Technology,Internet Services & Infrastructure,GDDY
+0000886982,Goldman Sachs,2002-07-22,1869,New York City,Financials,Investment Banking & Brokerage,GS
+0000045012,Halliburton,1957-03-04,1919,Houston,Energy,Oil & Gas Equipment & Services,HAL
+0000874766,Hartford (The),1957-03-04,1810,"Hartford, Connecticut",Financials,Property & Casualty Insurance,HIG
+0000046080,Hasbro,1984-09-30,1923,"Pawtucket, Rhode Island",Consumer Discretionary,Leisure Products,HAS
+0000860730,HCA Healthcare,2015-01-27,1968,"Nashville, Tennessee",Health Care,Health Care Facilities,HCA
+0000765880,Healthpeak Properties,2008-03-31,1985,Denver,Real Estate,Health Care REITs,DOC
+0001000228,Henry Schein,2015-03-17,1932,"Melville, New York",Health Care,Health Care Distributors,HSIC
+0000047111,Hershey Company (The),1957-03-04,1894,"Hershey, Pennsylvania",Consumer Staples,Packaged Foods & Meats,HSY
+0001645590,Hewlett Packard Enterprise,2015-11-02,2015,Houston,Information Technology,"Technology Hardware, Storage & Peripherals",HPE
+0001585689,Hilton Worldwide,2017-06-19,1919,"Tysons Corner, Virginia",Consumer Discretionary,"Hotels, Resorts & Cruise Lines",HLT
+0000354950,Home Depot (The),1988-03-31,1978,Atlanta,Consumer Discretionary,Home Improvement Retail,HD
+0000773840,Honeywell,1957-03-04,1906,"Charlotte, North Carolina",Industrials,Industrial Conglomerates,HON
+0000048465,Hormel Foods,2009-03-04,1891,"Austin, Minnesota",Consumer Staples,Packaged Foods & Meats,HRL
+0001070750,Host Hotels & Resorts,2007-03-20,1993,"Bethesda, Maryland",Real Estate,Hotel & Resort REITs,HST
+0000004281,Howmet Aerospace,2016-10-21,1888,Pittsburgh,Industrials,Aerospace & Defense,HWM
+0000047217,HP Inc.,1974-12-31,1939 (2015),"Palo Alto, California",Information Technology,"Technology Hardware, Storage & Peripherals",HPQ
+0000048898,Hubbell Incorporated,2023-10-18,1888,"Shelton, Connecticut",Industrials,Industrial Machinery & Supplies & Components,HUBB
+0000049071,Humana,2012-12-10,1961,"Louisville, Kentucky",Health Care,Managed Health Care,HUM
+0000049196,Huntington Bancshares,1997-08-28,1866,"Columbus, Ohio",Financials,Regional Banks,HBAN
+0001501585,Huntington Ingalls Industries,2018-01-03,2011,"Newport News, Virginia",Industrials,Aerospace & Defense,HII
+0000051143,IBM,1957-03-04,1911,"Armonk, New York",Information Technology,IT Consulting & Other Services,IBM
+0000832101,IDEX Corporation,2019-08-09,1988,"Northbrook, Illinois",Industrials,Industrial Machinery & Supplies & Components,IEX
+0000874716,Idexx Laboratories,2017-01-05,1983,"Westbrook, Maine",Health Care,Health Care Equipment,IDXX
+0000049826,Illinois Tool Works,1986-02-28,1912,"Glenview, Illinois",Industrials,Industrial Machinery & Supplies & Components,ITW
+0000879169,Incyte,2017-02-28,1991,"Wilmington, Delaware",Health Care,Biotechnology,INCY
+0001699150,Ingersoll Rand,2020-03-03,1859,"Davidson, North Carolina",Industrials,Industrial Machinery & Supplies & Components,IR
+0001145197,Insulet Corporation,2023-03-15,2000,"Acton, Massachusetts",Health Care,Health Care Equipment,PODD
+0000050863,Intel,1976-12-31,1968,"Santa Clara, California",Information Technology,Semiconductors,INTC
+0001381197,Interactive Brokers,2025-08-28,1977,"Greenwich, Connecticut",Financials,Investment Banking & Brokerage,IBKR
+0001571949,Intercontinental Exchange,2007-09-26,2000,Atlanta,Financials,Financial Exchanges & Data,ICE
+0000051253,International Flavors & Fragrances,1976-03-31,1958 (1889),New York City,Materials,Specialty Chemicals,IFF
+0000051434,International Paper,1957-03-04,1898,"Memphis, Tennessee",Materials,Paper & Plastic Packaging Products & Materials,IP
+0000896878,Intuit,2000-12-05,1983,"Mountain View, California",Information Technology,Application Software,INTU
+0001035267,Intuitive Surgical,2008-06-02,1995,"Sunnyvale, California",Health Care,Health Care Equipment,ISRG
+0000914208,Invesco,2008-08-21,1935,Atlanta,Financials,Asset Management & Custody Banks,IVZ
+0001687229,Invitation Homes,2022-09-19,2012,Dallas,Real Estate,Single-Family Residential REITs,INVH
+0001478242,IQVIA,2017-08-29,1982,"Durham, North Carolina",Health Care,Life Sciences Tools & Services,IQV
+0001020569,Iron Mountain,2009-01-06,1951,"Portsmouth, New Hampshire",Real Estate,Other Specialized REITs,IRM
+0000728535,J.B. Hunt,2015-07-01,1961,"Lowell, Arkansas",Industrials,Cargo Ground Transportation,JBHT
+0000898293,Jabil,2023-12-18,1966,"St. Petersburg, Florida",Information Technology,Electronic Manufacturing Services,JBL
+0000779152,Jack Henry & Associates,2018-11-13,1976,"Monett, Missouri",Financials,Transaction & Payment Processing Services,JKHY
+0000052988,Jacobs Solutions,2007-10-26,1947,Dallas,Industrials,Construction & Engineering,J
+0000200406,Johnson & Johnson,1973-06-30,1886,"New Brunswick, New Jersey",Health Care,Pharmaceuticals,JNJ
+0000833444,Johnson Controls,2010-08-27,1885,"Cork, Ireland",Industrials,Building Products,JCI
+0000019617,JPMorgan Chase,1975-06-30,2000 (1799 / 1871),New York City,Financials,Diversified Banks,JPM
+0001944048,Kenvue,2023-08-25,2022 (,"Skillman, New Jersey",Consumer Staples,Personal Care Products,KVUE
+0001418135,Keurig Dr Pepper,2022-06-21,1981,"Burlington, Massachusetts",Consumer Staples,Soft Drinks & Non-alcoholic Beverages,KDP
+0000091576,KeyCorp,1994-03-01,1825,Cleveland,Financials,Regional Banks,KEY
+0001601046,Keysight Technologies,2018-11-06,2014 (1939),"Santa Rosa, California",Information Technology,Electronic Equipment & Instruments,KEYS
+0000055785,Kimberly-Clark,1957-03-04,1872,"Irving, Texas",Consumer Staples,Household Products,KMB
+0000879101,Kimco Realty,2006-04-04,1958,"Jericho, New York",Real Estate,Retail REITs,KIM
+0001506307,Kinder Morgan,2012-05-25,1997,Houston,Energy,Oil & Gas Storage & Transportation,KMI
+0001404912,KKR & Co.,2024-06-24,1976,New York City,Financials,Asset Management & Custody Banks,KKR
+0000319201,KLA Corporation,1997-09-30,1975/1977 (1997),"Milpitas, California",Information Technology,Semiconductor Materials & Equipment,KLAC
+0001637459,Kraft Heinz,2015-07-06,2015 (1869),Chicago,Consumer Staples,Packaged Foods & Meats,KHC
+0000056873,Kroger,1957-03-04,1883,Cincinnati,Consumer Staples,Food Retail,KR
+0000202058,L3Harris,2008-09-22,2019 (,"Melbourne, Florida",Industrials,Aerospace & Defense,LHX
+0000920148,Labcorp,2004-11-01,1978,"Burlington, North Carolina",Health Care,Health Care Services,LH
+0000707549,Lam Research,2012-06-29,1980,"Fremont, California",Information Technology,Semiconductor Materials & Equipment,LRCX
+0001300514,Las Vegas Sands,2019-10-03,1988,Las Vegas,Consumer Discretionary,Casinos & Gaming,LVS
+0001336920,Leidos,2019-08-09,1969,"Reston, Virginia",Industrials,Diversified Support Services,LDOS
+0000920760,Lennar,2005-10-04,1954,Miami,Consumer Discretionary,Homebuilding,LEN
+0001069202,Lennox International,2024-12-23,1895,"Richardson, Texas",Industrials,Building Products,LII
+0000059478,Lilly (Eli),1970-12-31,1876,Indianapolis,Health Care,Pharmaceuticals,LLY
+0001707925,Linde plc,1992-07-01,1879,"Guildford, United Kingdom",Materials,Industrial Gases,LIN
+0001335258,Live Nation Entertainment,2019-12-23,2010,"Beverly Hills, California",Communication Services,Movies & Entertainment,LYV
+0000936468,Lockheed Martin,1957-03-04,1995,"Bethesda, Maryland",Industrials,Aerospace & Defense,LMT
+0000060086,Loews Corporation,1995-05-31,1959,New York City,Financials,Multi-line Insurance,L
+0000060667,Lowe's,1984-02-29,1904/1946/1959,"Mooresville, North Carolina",Consumer Discretionary,Home Improvement Retail,LOW
+0001397187,Lululemon Athletica,2023-10-18,1998,"Vancouver, Canada",Consumer Discretionary,"Apparel, Accessories & Luxury Goods",LULU
+0001633978,Lumentum,2026-03-23,2015,"San Jose, California",Information Technology,Communications Equipment,LITE
+0001489393,LyondellBasell,2012-09-05,2007,"Rotterdam, Netherlands",Materials,Specialty Chemicals,LYB
+0000036270,M&T Bank,2004-02-23,1856,"Buffalo, New York",Financials,Regional Banks,MTB
+0001510295,Marathon Petroleum,2011-07-01,2009 (1887),"Findlay, Ohio",Energy,Oil & Gas Refining & Marketing,MPC
+0001048286,Marriott International,1998-05-29,1927,"Bethesda, Maryland",Consumer Discretionary,"Hotels, Resorts & Cruise Lines",MAR
+0000062709,Marsh McLennan,1987-08-31,1905,New York City,Financials,Insurance Brokers,MRSH
+0000916076,Martin Marietta Materials,2014-07-02,1993,"Raleigh, North Carolina",Materials,Construction Materials,MLM
+0000062996,Masco,1981-06-30,1929,"Livonia, Michigan",Industrials,Building Products,MAS
+0001141391,Mastercard,2008-07-18,1966,"Harrison, New York",Financials,Transaction & Payment Processing Services,MA
+0000063754,McCormick & Company,2003-03-20,1889,"Hunt Valley, Maryland",Consumer Staples,Packaged Foods & Meats,MKC
+0000063908,McDonald's,1970-06-30,1940,Chicago,Consumer Discretionary,Restaurants,MCD
+0000927653,McKesson Corporation,1999-01-13,1833,"Irving, Texas",Health Care,Health Care Distributors,MCK
+0001613103,Medtronic,1986-10-31,1949,Galway,Health Care,Health Care Equipment,MDT
+0000310158,Merck & Co.,1957-03-04,1891,"Kenilworth, New Jersey",Health Care,Pharmaceuticals,MRK
+0001326801,Meta Platforms,2013-12-23,2004,"Menlo Park, California",Communication Services,Interactive Media & Services,META
+0001099219,MetLife,2000-12-11,1868,New York City,Financials,Life & Health Insurance,MET
+0001037646,Mettler Toledo,2016-09-06,1945,"Columbus, Ohio",Health Care,Life Sciences Tools & Services,MTD
+0000789570,MGM Resorts,2017-07-26,1986,"Paradise, Nevada",Consumer Discretionary,Casinos & Gaming,MGM
+0000827054,Microchip Technology,2007-09-07,1989,"Chandler, Arizona",Information Technology,Semiconductors,MCHP
+0000723125,Micron Technology,1994-09-27,1978,"Boise, Idaho",Information Technology,Semiconductors,MU
+0000789019,Microsoft,1994-06-01,1975,"Redmond, Washington",Information Technology,Systems Software,MSFT
+0000912595,Mid-America Apartment Communities,2016-12-02,1977,"Memphis, Tennessee",Real Estate,Multi-Family Residential REITs,MAA
+0001682852,Moderna,2021-07-21,2010,"Cambridge, Massachusetts",Health Care,Biotechnology,MRNA
+0000024545,Molson Coors Beverage Company,1976-06-30,"2005 (Molson 1786, Coors 1873)",Chicago,Consumer Staples,Brewers,TAP
+0001103982,Mondelez International,2012-10-02,2012,Chicago,Consumer Staples,Packaged Foods & Meats,MDLZ
+0001280452,Monolithic Power Systems,2021-02-12,1997,"Kirkland, Washington",Information Technology,Semiconductors,MPWR
+0000865752,Monster Beverage,2012-06-28,2012 (1935),"Corona, California",Consumer Staples,Soft Drinks & Non-alcoholic Beverages,MNST
+0001059556,Moody's Corporation,1998-07-01,1909,New York City,Financials,Financial Exchanges & Data,MCO
+0000895421,Morgan Stanley,1993-07-29,1935,New York City,Financials,Investment Banking & Brokerage,MS
+0001285785,Mosaic Company (The),2011-09-26,2004 (1865 / 1909),"Tampa, Florida",Materials,Fertilizers & Agricultural Chemicals,MOS
+0000068505,Motorola Solutions,1957-03-04,1928 (2011),Chicago,Information Technology,Communications Equipment,MSI
+0001408198,MSCI Inc.,2018-04-04,1969,New York City,Financials,Financial Exchanges & Data,MSCI
+0001120193,"Nasdaq, Inc.",2008-10-22,1971,New York City,Financials,Financial Exchanges & Data,NDAQ
+0001002047,NetApp,1999-06-25,1992,"San Jose, California",Information Technology,"Technology Hardware, Storage & Peripherals",NTAP
+0001065280,Netflix,2010-12-20,1997,"Los Gatos, California",Communication Services,Movies & Entertainment,NFLX
+0001164727,Newmont,1969-06-30,1921,Denver,Materials,Gold,NEM
+0001564708,News Corp,2013-08-01,2013 (,New York City,Communication Services,Publishing,NWSA
+0001564708,News Corp,2015-09-18,2013 (,New York City,Communication Services,Publishing,NWS
+0000753308,NextEra Energy,1976-06-30,1984 (1925),"Juno Beach, Florida",Utilities,Multi-Utilities,NEE
+0000320187,"Nike, Inc.",1988-11-30,1964,"Washington County, Oregon",Consumer Discretionary,"Apparel, Accessories & Luxury Goods",NKE
+0001111711,NiSource,2000-11-02,1912,"Merrillville, Indiana",Utilities,Multi-Utilities,NI
+0000072331,Nordson Corporation,2022-02-15,1935,"Westlake, Ohio",Industrials,Industrial Machinery & Supplies & Components,NDSN
+0000702165,Norfolk Southern,1957-03-04,1881/1894 (1980),Atlanta,Industrials,Rail Transportation,NSC
+0000073124,Northern Trust,1998-01-30,1889,Chicago,Financials,Asset Management & Custody Banks,NTRS
+0001133421,Northrop Grumman,1957-03-04,"1994 (Northrop 1939, Grumman 1930)","West Falls Church, Virginia",Industrials,Aerospace & Defense,NOC
+0001513761,Norwegian Cruise Line Holdings,2017-10-13,2011 (1966),Miami-Dade County,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",NCLH
+0001013871,NRG Energy,2010-01-29,1992,Houston,Utilities,Independent Power Producers & Energy Traders,NRG
+0000073309,Nucor,1985-04-30,1940,"Charlotte, North Carolina",Materials,Steel,NUE
+0001045810,Nvidia,2001-11-30,1993,"Santa Clara, California",Information Technology,Semiconductors,NVDA
+0000906163,"NVR, Inc.",2019-09-26,1980,"Reston, Virginia",Consumer Discretionary,Homebuilding,NVR
+0001413447,NXP Semiconductors,2021-03-22,1953,"Eindhoven, Netherlands",Information Technology,Semiconductors,NXPI
+0000898173,O’Reilly Automotive,2009-03-27,1957,"Springfield, Missouri",Consumer Discretionary,Automotive Retail,ORLY
+0000797468,Occidental Petroleum,1957-03-04,1920,Houston,Energy,Oil & Gas Exploration & Production,OXY
+0000878927,Old Dominion,2019-12-09,1934,"Thomasville, North Carolina",Industrials,Cargo Ground Transportation,ODFL
+0000029989,Omnicom Group,1997-12-31,1986,New York City,Communication Services,Advertising,OMC
+0001097864,ON Semiconductor,2022-06-21,1999,"Phoenix, Arizona",Information Technology,Semiconductors,ON
+0001039684,Oneok,2010-03-15,1906,"Tulsa, Oklahoma",Energy,Oil & Gas Storage & Transportation,OKE
+0001341439,Oracle Corporation,1989-08-31,1977,"Austin, Texas",Information Technology,Application Software,ORCL
+0001781335,Otis Worldwide,2020-04-03,"2020 (1853,","Farmington, Connecticut",Industrials,Industrial Machinery & Supplies & Components,OTIS
+0000075362,Paccar,1980-12-31,1905,"Bellevue, Washington",Industrials,Construction Machinery & Heavy Transportation Equipment,PCAR
+0000075677,Packaging Corporation of America,2017-07-26,1959,"Lake Forest, Illinois",Materials,Paper & Plastic Packaging Products & Materials,PKG
+0001321655,Palantir Technologies,2024-09-23,2003,"Aventura, Florida",Information Technology,Application Software,PLTR
+0001327567,Palo Alto Networks,2023-06-20,2005,"Santa Clara, California",Information Technology,Systems Software,PANW
+0002041610,Paramount Skydance Corporation,1994-09-30,2025 (,Los Angeles,Communication Services,Movies & Entertainment,PSKY
+0000076334,Parker Hannifin,1985-11-30,1917,Cleveland,Industrials,Industrial Machinery & Supplies & Components,PH
+0000723531,Paychex,1998-10-01,1971,"Penfield, New York",Industrials,Human Resource & Employment Services,PAYX
+0001633917,PayPal,2015-07-20,1998,"San Jose, California",Financials,Transaction & Payment Processing Services,PYPL
+0000077360,Pentair,2012-10-01,1966,"Worsley, United Kingdom",Industrials,Industrial Machinery & Supplies & Components,PNR
+0000077476,PepsiCo,1957-03-04,1898,"Purchase, New York",Consumer Staples,Soft Drinks & Non-alcoholic Beverages,PEP
+0000078003,Pfizer,1957-03-04,1849,New York City,Health Care,Pharmaceuticals,PFE
+0001004980,PG&E Corporation,2022-10-03,1905,"Oakland, California",Utilities,Multi-Utilities,PCG
+0001413329,Philip Morris International,2008-03-31,2008 (1847),New York City,Consumer Staples,Tobacco,PM
+0001534701,Phillips 66,2012-05-01,2012 (1917),Houston,Energy,Oil & Gas Refining & Marketing,PSX
+0000764622,Pinnacle West Capital,1999-10-04,1985,"Phoenix, Arizona",Utilities,Multi-Utilities,PNW
+0000713676,PNC Financial Services,1988-04-30,1845,Pittsburgh,Financials,Diversified Banks,PNC
+0000945841,Pool Corporation,2020-10-07,1993,"Covington, Louisiana",Consumer Discretionary,Distributors,POOL
+0000079879,PPG Industries,1957-03-04,1883,Pittsburgh,Materials,Specialty Chemicals,PPG
+0000922224,PPL Corporation,2001-10-01,1920,"Allentown, Pennsylvania",Utilities,Electric Utilities,PPL
+0001126328,Principal Financial Group,2002-07-22,1879,"Des Moines, Iowa",Financials,Life & Health Insurance,PFG
+0000080424,Procter & Gamble,1957-03-04,1837,Cincinnati,Consumer Staples,Personal Care Products,PG
+0000080661,Progressive Corporation,1997-08-04,1937,"Mayfield Village, Ohio",Financials,Property & Casualty Insurance,PGR
+0001045609,Prologis,2003-07-17,1983,San Francisco,Real Estate,Industrial REITs,PLD
+0001137774,Prudential Financial,2002-07-22,1875,"Newark, New Jersey",Financials,Life & Health Insurance,PRU
+0000788784,Public Service Enterprise Group,1957-03-04,1903,"Newark, New Jersey",Utilities,Electric Utilities,PEG
+0000857005,PTC Inc.,2021-04-20,1985,Boston,Information Technology,Application Software,PTC
+0001393311,Public Storage,2005-08-19,1972,"Glendale, California",Real Estate,Self-Storage REITs,PSA
+0000822416,PulteGroup,1984-04-30,1956,Atlanta,Consumer Discretionary,Homebuilding,PHM
+0001050915,Quanta Services,2009-07-01,1997,Houston,Industrials,Construction & Engineering,PWR
+0000804328,Qualcomm,1999-07-22,1985,San Diego,Information Technology,Semiconductors,QCOM
+0001022079,Quest Diagnostics,2002-12-12,1967,"Secaucus, New Jersey",Health Care,Health Care Services,DGX
+0002058873,Qnity Electronics,2025-11-03,2025,"Wilmington, Delaware",Information Technology,Semiconductor Materials & Equipment,Q
+0001037038,Ralph Lauren Corporation,2007-02-02,1967,New York City,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",RL
+0000720005,Raymond James Financial,2017-03-20,1962,"St. Petersburg, Florida",Financials,Investment Banking & Brokerage,RJF
+0000101829,RTX Corporation,1957-03-04,1922,"Waltham, Massachusetts",Industrials,Aerospace & Defense,RTX
+0000726728,Realty Income,2015-04-07,1969,San Diego,Real Estate,Retail REITs,O
+0000910606,Regency Centers,2017-03-02,1963,"Jacksonville, Florida",Real Estate,Retail REITs,REG
+0000872589,Regeneron Pharmaceuticals,2013-05-01,1988,"Tarrytown, New York",Health Care,Biotechnology,REGN
+0001281761,Regions Financial Corporation,1998-08-28,1971,"Birmingham, Alabama",Financials,Regional Banks,RF
+0001060391,Republic Services,2008-12-05,1998 (1981),"Phoenix, Arizona",Industrials,Environmental & Facilities Services,RSG
+0000943819,ResMed,2017-07-26,1989,San Diego,Health Care,Health Care Equipment,RMD
+0000031791,Revvity,1985-05-31,1937,"Waltham, Massachusetts",Health Care,Health Care Equipment,RVTY
+0001783879,Robinhood Markets,2025-09-22,2013,"Menlo Park, California",Financials,Investment Banking & Brokerage,HOOD
+0001024478,Rockwell Automation,2000-03-12,1903,Milwaukee,Industrials,Electrical Components & Equipment,ROK
+0000084839,"Rollins, Inc.",2018-10-01,1948,Atlanta,Industrials,Environmental & Facilities Services,ROL
+0000882835,Roper Technologies,2009-12-23,1981,"Sarasota, Florida",Information Technology,Electronic Equipment & Instruments,ROP
+0000745732,Ross Stores,2009-12-21,1982,"Dublin, California",Consumer Discretionary,Apparel Retail,ROST
+0000884887,Royal Caribbean Group,2014-12-05,1997,Miami,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",RCL
+0000064040,S&P Global,1957-03-04,1917,New York City,Financials,Financial Exchanges & Data,SPGI
+0001108524,Salesforce,2008-09-15,1999,San Francisco,Information Technology,Application Software,CRM
+0002023554,Sandisk,2025-11-28,1988,"Milpitas, California",Information Technology,"Technology Hardware, Storage & Peripherals",SNDK
+0001034054,SBA Communications,2017-09-01,1989,"Boca Raton, Florida",Real Estate,Telecom Tower REITs,SBAC
+0000087347,Schlumberger,1957-03-04,1926,Houston,Energy,Oil & Gas Equipment & Services,SLB
+0001137789,Seagate Technology,2012-07-02,1979,Dublin,Information Technology,"Technology Hardware, Storage & Peripherals",STX
+0001032208,Sempra,2017-03-17,1998,San Diego,Utilities,Multi-Utilities,SRE
+0001373715,ServiceNow,2019-11-21,2003,"Santa Clara, California",Information Technology,Systems Software,NOW
+0000089800,Sherwin-Williams,1964-06-30,1866,Cleveland,Materials,Specialty Chemicals,SHW
+0001063761,Simon Property Group,2002-06-26,2003,Indianapolis,Real Estate,Retail REITs,SPG
+0000004127,Skyworks Solutions,2015-03-12,2002,"Irvine, California",Information Technology,Semiconductors,SWKS
+0000091419,J.M. Smucker Company (The),2008-11-06,1897,"Orrville, Ohio",Consumer Staples,Packaged Foods & Meats,SJM
+0002005951,Smurfit Westrock,2024-07-08,1934,Dublin,Materials,Paper & Plastic Packaging Products & Materials,SW
+0000091440,Snap-on,1982-09-30,1920,"Kenosha, Wisconsin",Industrials,Industrial Machinery & Supplies & Components,SNA
+0001964738,Solventum,2024-04-01,2023,"Saint Paul, Minnesota",Health Care,Health Care Technology,SOLV
+0000092122,Southern Company,1957-03-04,1945,Atlanta,Utilities,Electric Utilities,SO
+0000092380,Southwest Airlines,1994-07-01,1967,Dallas,Industrials,Passenger Airlines,LUV
+0000093556,Stanley Black & Decker,1982-09-30,1843,"New Britain, Connecticut",Industrials,Industrial Machinery & Supplies & Components,SWK
+0000829224,Starbucks,2000-06-07,1971,Seattle,Consumer Discretionary,Restaurants,SBUX
+0000093751,State Street Corporation,2003-03-14,1792,Boston,Financials,Asset Management & Custody Banks,STT
+0001022671,Steel Dynamics,2022-12-22,1993,"Fort Wayne, Indiana",Materials,Steel,STLD
+0001757898,Steris,2019-12-23,1985,Dublin,Health Care,Health Care Equipment,STE
+0000310764,Stryker Corporation,2000-12-12,1941,"Kalamazoo, Michigan",Health Care,Health Care Equipment,SYK
+0001375365,Supermicro,2024-03-18,1993,"San Jose, California",Information Technology,"Technology Hardware, Storage & Peripherals",SMCI
+0001601712,Synchrony Financial,2015-11-18,2003,"Stamford, Connecticut",Financials,Consumer Finance,SYF
+0000883241,Synopsys,2017-03-16,1986,"Sunnyvale, California",Information Technology,Application Software,SNPS
+0000096021,Sysco,1986-12-31,1969,Houston,Consumer Staples,Food Distributors,SYY
+0001283699,T-Mobile US,2019-07-15,1994,"Bellevue, Washington",Communication Services,Wireless Telecommunication Services,TMUS
+0001113169,T. Rowe Price,2019-07-29,1937,Baltimore,Financials,Asset Management & Custody Banks,TROW
+0000946581,Take-Two Interactive,2018-03-19,1993,New York City,Communication Services,Interactive Home Entertainment,TTWO
+0001116132,"Tapestry, Inc.",2004-09-01,2017,New York City,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",TPR
+0001389170,Targa Resources,2022-10-12,2005,Houston,Energy,Oil & Gas Storage & Transportation,TRGP
+0000027419,Target Corporation,1976-12-31,1902,Minneapolis,Consumer Staples,Consumer Staples Merchandise Retail,TGT
+0001385157,TE Connectivity,2011-10-17,2007,Galway,Information Technology,Electronic Manufacturing Services,TEL
+0001094285,Teledyne Technologies,2020-06-22,1960,"Thousand Oaks, California",Information Technology,Electronic Equipment & Instruments,TDY
+0000097210,Teradyne,2020-09-21,1960,"North Reading, Massachusetts",Information Technology,Semiconductor Materials & Equipment,TER
+0001318605,"Tesla, Inc.",2020-12-21,2003,"Austin, Texas",Consumer Discretionary,Automobile Manufacturers,TSLA
+0000097476,Texas Instruments,2001-03-12,1930,Dallas,Information Technology,Semiconductors,TXN
+0001811074,Texas Pacific Land Corporation,2024-11-26,1888,Dallas,Energy,Oil & Gas Exploration & Production,TPL
+0000217346,Textron,1978-12-31,1923,"Providence, Rhode Island",Industrials,Aerospace & Defense,TXT
+0000097745,Thermo Fisher Scientific,2004-08-03,2006 (1902),"Waltham, Massachusetts",Health Care,Life Sciences Tools & Services,TMO
+0000109198,TJX Companies,1985-09-30,1987,"Framingham, Massachusetts",Consumer Discretionary,Apparel Retail,TJX
+0001973266,TKO Group Holdings,2025-03-24,2023,New York City,Communication Services,Movies & Entertainment,TKO
+0001671933,Trade Desk (The),2025-07-18,2009,"Ventura, California",Communication Services,Advertising,TTD
+0000916365,Tractor Supply,2014-01-24,1938,"Brentwood, Tennessee",Consumer Discretionary,Other Specialty Retail,TSCO
+0001466258,Trane Technologies,2010-11-17,1871,Dublin,Industrials,Building Products,TT
+0001260221,TransDigm Group,2016-06-03,1993,Cleveland,Industrials,Aerospace & Defense,TDG
+0000086312,Travelers Companies (The),2002-08-21,1853,New York City,Financials,Property & Casualty Insurance,TRV
+0000864749,Trimble Inc.,2021-01-21,1978,"Westminster, Colorado",Information Technology,Application Software,TRMB
+0000092230,Truist Financial,1997-12-04,1872,"Charlotte, North Carolina",Financials,Diversified Banks,TFC
+0000860731,Tyler Technologies,2020-06-22,1966,"Plano, Texas",Information Technology,Application Software,TYL
+0000100493,Tyson Foods,2005-08-10,1935,"Springdale, Arkansas",Consumer Staples,Packaged Foods & Meats,TSN
+0000036104,U.S. Bancorp,1999-11-01,1968,Minneapolis,Financials,Diversified Banks,USB
+0001543151,Uber,2023-12-18,2009,San Francisco,Industrials,Passenger Ground Transportation,UBER
+0000074208,"UDR, Inc.",2016-03-07,1972,"Highlands Ranch, Colorado",Real Estate,Multi-Family Residential REITs,UDR
+0001403568,Ulta Beauty,2016-04-18,1990,"Bolingbrook, Illinois",Consumer Discretionary,Other Specialty Retail,ULTA
+0000100885,Union Pacific Corporation,1957-03-04,1862,"Omaha, Nebraska",Industrials,Rail Transportation,UNP
+0000100517,United Airlines Holdings,2015-09-03,1967,Chicago,Industrials,Passenger Airlines,UAL
+0001090727,United Parcel Service,2002-07-22,1907,"Sandy Springs, Georgia",Industrials,Air Freight & Logistics,UPS
+0001067701,United Rentals,2014-09-20,1997,"Stamford, Connecticut",Industrials,Trading Companies & Distributors,URI
+0000731766,UnitedHealth Group,1994-07-01,1977,"Eden Prairie, Minnesota",Health Care,Managed Health Care,UNH
+0000352915,Universal Health Services,2014-09-20,1979,"King of Prussia, Pennsylvania",Health Care,Health Care Facilities,UHS
+0001035002,Valero Energy,2002-12-20,1980,San Antonio,Energy,Oil & Gas Refining & Marketing,VLO
+0000740260,Ventas,2009-03-04,1998,Chicago,Real Estate,Health Care REITs,VTR
+0001967680,Veralto,2023-10-02,2023,"Waltham, Massachusetts",Industrials,Environmental & Facilities Services,VLTO
+0001014473,Verisign,2006-02-01,1995,"Reston, Virginia",Information Technology,Internet Services & Infrastructure,VRSN
+0001442145,Verisk Analytics,2015-10-08,1971,"Jersey City, New Jersey",Industrials,Research & Consulting Services,VRSK
+0000732712,Verizon,1983-11-30,1983 (1877),New York City,Communication Services,Integrated Telecommunication Services,VZ
+0000875320,Vertex Pharmaceuticals,2013-09-23,1989,Boston,Health Care,Biotechnology,VRTX
+0001674101,Vertiv,2026-03-23,2016,"Westerville, Ohio",Industrials,Electrical Components & Equipment,VRT
+0001792044,Viatris,2004-04-23,1961,Pittsburgh,Health Care,Pharmaceuticals,VTRS
+0001705696,Vici Properties,2022-06-08,2017,New York City,Real Estate,Hotel & Resort REITs,VICI
+0001403161,Visa Inc.,2009-12-21,1958,San Francisco,Financials,Transaction & Payment Processing Services,V
+0001692819,Vistra Corp,2024-05-08,2016,"Irving, Texas",Utilities,Electric Utilities,VST
+0001396009,Vulcan Materials Company,1999-06-30,1909,"Birmingham, Alabama",Materials,Construction Materials,VMC
+0000011544,W. R. Berkley Corporation,2019-12-05,1967,"Greenwich, Connecticut",Financials,Property & Casualty Insurance,WRB
+0000277135,W. W. Grainger,1981-06-30,1927,"Lake Forest, Illinois",Industrials,Industrial Machinery & Supplies & Components,GWW
+0000943452,Wabtec,2019-02-27,1999 (1869),Pittsburgh,Industrials,Construction Machinery & Heavy Transportation Equipment,WAB
+0000104169,Walmart,1982-08-31,1962,"Bentonville, Arkansas",Consumer Staples,Consumer Staples Merchandise Retail,WMT
+0001744489,Walt Disney Company (The),1976-06-30,1923,"Burbank, California",Communication Services,Movies & Entertainment,DIS
+0001437107,Warner Bros. Discovery,2022-04-11,2022 (,New York City,Communication Services,Broadcasting,WBD
+0000823768,Waste Management,1998-08-31,1968,Houston,Industrials,Environmental & Facilities Services,WM
+0001000697,Waters Corporation,2002-01-02,1958,"Milford, Massachusetts",Health Care,Life Sciences Tools & Services,WAT
+0000783325,WEC Energy Group,2008-10-31,1896,Milwaukee,Utilities,Electric Utilities,WEC
+0000072971,Wells Fargo,1976-06-30,1852,San Francisco,Financials,Diversified Banks,WFC
+0000766704,Welltower,2009-01-30,1970,"Toledo, Ohio",Real Estate,Health Care REITs,WELL
+0000105770,West Pharmaceutical Services,2020-05-22,1923,"Exton, Pennsylvania",Health Care,Health Care Supplies,WST
+0000106040,Western Digital,2009-07-01,1970,"San Jose, California",Information Technology,"Technology Hardware, Storage & Peripherals",WDC
+0000106535,Weyerhaeuser,1979-10-01,1900,Seattle,Real Estate,Timber REITs,WY
+0000719955,"Williams-Sonoma, Inc.",2025-03-24,1956,San Francisco,Consumer Discretionary,Homefurnishing Retail,WSM
+0000107263,Williams Companies,1975-03-31,1908,"Tulsa, Oklahoma",Energy,Oil & Gas Storage & Transportation,WMB
+0001140536,Willis Towers Watson,2016-01-05,2016,London,Financials,Insurance Brokers,WTW
+0001327811,"Workday, Inc.",2024-12-23,2005,"Pleasanton, California",Information Technology,Application Software,WDAY
+0001174922,Wynn Resorts,2008-11-14,2002,"Paradise, Nevada",Consumer Discretionary,Casinos & Gaming,WYNN
+0000072903,Xcel Energy,1957-03-04,1909,Minneapolis,Utilities,Multi-Utilities,XEL
+0001524472,Xylem Inc.,2011-11-01,2011,"White Plains, New York",Industrials,Industrial Machinery & Supplies & Components,XYL
+0001041061,Yum! Brands,1997-10-06,1997,"Louisville, Kentucky",Consumer Discretionary,Restaurants,YUM
+0000877212,Zebra Technologies,2019-12-23,1969,"Lincolnshire, Illinois",Information Technology,Electronic Equipment & Instruments,ZBRA
+0001136869,Zimmer Biomet,2001-08-07,1927,"Warsaw, Indiana",Health Care,Health Care Equipment,ZBH
+0001555280,Zoetis,2013-06-21,1952,"Parsippany, New Jersey",Health Care,Pharmaceuticals,ZTS
